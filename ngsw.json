@@ -1,0 +1,122 @@
+{
+  "configVersion": 1,
+  "timestamp": 1562426516326,
+  "index": "/javascript-indonesias/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/javascript-indonesias/4-es5.ca2c8cf04db8176cfdb6.js",
+        "/javascript-indonesias/5-es5.a06703ec27d015f5a767.js",
+        "/javascript-indonesias/7-es2015.f805a07e5871a400d6f2.js",
+        "/javascript-indonesias/8-es2015.2bc048ee1321c24a8405.js",
+        "/javascript-indonesias/bootstrap-js.js",
+        "/javascript-indonesias/bootstrap-style.css",
+        "/javascript-indonesias/favicon.ico",
+        "/javascript-indonesias/fontawesome-style.css",
+        "/javascript-indonesias/index.html",
+        "/javascript-indonesias/jquery-js.js",
+        "/javascript-indonesias/main-es2015.59ffacdb5753777a60a4.js",
+        "/javascript-indonesias/main-es5.e9adcf004ee3bffbe033.js",
+        "/javascript-indonesias/polyfills-es2015.12c9b893ea3f268e5104.js",
+        "/javascript-indonesias/polyfills-es5.7d557f3a1ecba44264aa.js",
+        "/javascript-indonesias/runtime-es2015.a79b7d75c94aca75499f.js",
+        "/javascript-indonesias/runtime-es5.a9eb5bb64d5f63a397a8.js",
+        "/javascript-indonesias/styles.842dc4aae5a2857afc2c.css",
+        "/javascript-indonesias/vendor-es2015.2be3148bc190fc61fbee.js",
+        "/javascript-indonesias/vendor-es5.d1787d757378a0e6281c.js"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/javascript-indonesias/assets/developers.json",
+        "/javascript-indonesias/assets/icons/ic_launcher.png",
+        "/javascript-indonesias/assets/icons/icon-512x512.png",
+        "/javascript-indonesias/fa-brands-400.03783c5172ee1ad128c5.eot",
+        "/javascript-indonesias/fa-brands-400.073c2f3ce60eaf69cc27.svg",
+        "/javascript-indonesias/fa-brands-400.7559b3774a0625e8ca6c.woff2",
+        "/javascript-indonesias/fa-brands-400.ed2b8bf117160466ba62.ttf",
+        "/javascript-indonesias/fa-brands-400.fe9d62e0d16a333a20e6.woff",
+        "/javascript-indonesias/fa-regular-400.59215032a4397507b80e.ttf",
+        "/javascript-indonesias/fa-regular-400.8fdea4e89ac405d9f8db.svg",
+        "/javascript-indonesias/fa-regular-400.e07d9e40b26048d9abe2.woff2",
+        "/javascript-indonesias/fa-regular-400.e5770f9863963fb57694.woff",
+        "/javascript-indonesias/fa-regular-400.fc9c63c8224fb341fc93.eot",
+        "/javascript-indonesias/fa-solid-900.4bced7c4c0d61d4f9886.woff",
+        "/javascript-indonesias/fa-solid-900.acf50f59802f20d8b452.ttf",
+        "/javascript-indonesias/fa-solid-900.b557f56e367e59344ca9.svg",
+        "/javascript-indonesias/fa-solid-900.b5cf8ae26748570d8fb9.woff2",
+        "/javascript-indonesias/fa-solid-900.ef3df98419d143d9617f.eot"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/javascript-indonesias/4-es5.ca2c8cf04db8176cfdb6.js": "4fb4145245eb04c9502bb1aaf0e78b4e29aa5a13",
+    "/javascript-indonesias/5-es5.a06703ec27d015f5a767.js": "8b3371e51a80e7482970f0d41a8433d616cec698",
+    "/javascript-indonesias/7-es2015.f805a07e5871a400d6f2.js": "d049977feb20ca55f742b2313d9b5685dabd7ebf",
+    "/javascript-indonesias/8-es2015.2bc048ee1321c24a8405.js": "048a3b2e6fd562236f38aef4f4d5900cdefbd224",
+    "/javascript-indonesias/assets/developers.json": "6b681dc50e70494e8e01be36ac48d9fe4199a4dc",
+    "/javascript-indonesias/assets/icons/ic_launcher.png": "2857632bcaaf0572701b30eb33a052ed5f0adc33",
+    "/javascript-indonesias/assets/icons/icon-512x512.png": "caae0f1d20e5cdae24893b4b5d0cb026e0f36fcc",
+    "/javascript-indonesias/bootstrap-js.js": "7b9b9e42c641f0d83c4f8caea22e48ff5964ee26",
+    "/javascript-indonesias/bootstrap-style.css": "43c325fd2ae66d64c438686dcc85ffb1ddd40d04",
+    "/javascript-indonesias/fa-brands-400.03783c5172ee1ad128c5.eot": "cad3317342dbe39e333569633f1c103e1d138722",
+    "/javascript-indonesias/fa-brands-400.073c2f3ce60eaf69cc27.svg": "d219cda076ad129bb27cd994286db8ff8169e337",
+    "/javascript-indonesias/fa-brands-400.7559b3774a0625e8ca6c.woff2": "a403af3337e6207d144b998b9c3bed439af562a9",
+    "/javascript-indonesias/fa-brands-400.ed2b8bf117160466ba62.ttf": "07d3f17fa86ddf58c8442ec3bacbcee90fe42bdc",
+    "/javascript-indonesias/fa-brands-400.fe9d62e0d16a333a20e6.woff": "4cb087035ebd3afa0c588f129d1549e532c06d18",
+    "/javascript-indonesias/fa-regular-400.59215032a4397507b80e.ttf": "2833f486c98034276a8cf663f639bd985f360bd0",
+    "/javascript-indonesias/fa-regular-400.8fdea4e89ac405d9f8db.svg": "73907af4519cd8b1c7f31a376349c8cedd145cc6",
+    "/javascript-indonesias/fa-regular-400.e07d9e40b26048d9abe2.woff2": "c744217caa82b3245cffa2714aaf2ec9f749614d",
+    "/javascript-indonesias/fa-regular-400.e5770f9863963fb57694.woff": "82875b3e31f4a2a8b9ed4e4b383e61ce3737267f",
+    "/javascript-indonesias/fa-regular-400.fc9c63c8224fb341fc93.eot": "38b05dab032a14ed904c36877795be97417cb3cf",
+    "/javascript-indonesias/fa-solid-900.4bced7c4c0d61d4f9886.woff": "0f6fcbf47ded1a1c6ace0f67383d512b6a053dad",
+    "/javascript-indonesias/fa-solid-900.acf50f59802f20d8b452.ttf": "b7f728ec591ed9dd9028ed3deb6a536d0038c8d6",
+    "/javascript-indonesias/fa-solid-900.b557f56e367e59344ca9.svg": "add1af0ce6d10a103c434b4edaa6c07acaaea3bc",
+    "/javascript-indonesias/fa-solid-900.b5cf8ae26748570d8fb9.woff2": "07bed153d47f9129a944ee54dd72952deed074c8",
+    "/javascript-indonesias/fa-solid-900.ef3df98419d143d9617f.eot": "acee4f1e361ccf995121f381b95424b6ec6b29c0",
+    "/javascript-indonesias/favicon.ico": "5c13495d16ef65e67b354baf749ecb4288c40b55",
+    "/javascript-indonesias/fontawesome-style.css": "0a1bb7f9518dd9c2b17d0b5d8ea01c1e8266f756",
+    "/javascript-indonesias/index.html": "e2108f7638acc31b8cf2dafb4bcbd5efed0e5e98",
+    "/javascript-indonesias/jquery-js.js": "b79b88235d54697a27587a1e58254e29b7379547",
+    "/javascript-indonesias/main-es2015.59ffacdb5753777a60a4.js": "91028123839c24d24de15d1e8db731bc3fa2b59b",
+    "/javascript-indonesias/main-es5.e9adcf004ee3bffbe033.js": "7c82b985e14ec7cc5d2c67384a54ea6ba5cdc971",
+    "/javascript-indonesias/polyfills-es2015.12c9b893ea3f268e5104.js": "775dad56f337fbfabc4e0315d276c6516639d3cd",
+    "/javascript-indonesias/polyfills-es5.7d557f3a1ecba44264aa.js": "6c9688c6586bfcf669879655ba5874ef1d2b4bcf",
+    "/javascript-indonesias/runtime-es2015.a79b7d75c94aca75499f.js": "f6b03aa4075adcfb4983f009d4e73d013f3df1d4",
+    "/javascript-indonesias/runtime-es5.a9eb5bb64d5f63a397a8.js": "6134e171d4fca4c1c5ffa98db3b132040cf985f2",
+    "/javascript-indonesias/styles.842dc4aae5a2857afc2c.css": "1adf159d0c8f418ce30c378b8ceb9b36101c2bb9",
+    "/javascript-indonesias/vendor-es2015.2be3148bc190fc61fbee.js": "89b33c5442fb68dcd3cff5aaa293bd7df2a726d1",
+    "/javascript-indonesias/vendor-es5.d1787d757378a0e6281c.js": "68512c4334745abc8770b87ea82c2bc90a242273"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
