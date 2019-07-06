@@ -1,6 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1562427079155,
+  "timestamp": 1562455118161,
+  "appData": {
+    "version": "1.0.0",
+    "changelog": "Release awal aplikasi AwesomeJSDevID"
+  },
   "index": "/awesome-js-dev-indonesia/index.html",
   "assetGroups": [
     {
@@ -34,7 +38,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "/awesome-js-dev-indonesia/assets/developers.json",
@@ -61,7 +65,20 @@
       ]
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "from-static",
+      "patterns": [
+        "\\/awesome-js-dev-indonesia\\/assets\\/developers\\.json",
+        "\\/developers\\.json"
+      ],
+      "strategy": "performance",
+      "maxSize": 10,
+      "maxAge": 21600000,
+      "timeoutMs": 600000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/awesome-js-dev-indonesia/4-es5.ca2c8cf04db8176cfdb6.js": "4fb4145245eb04c9502bb1aaf0e78b4e29aa5a13",
     "/awesome-js-dev-indonesia/5-es5.a06703ec27d015f5a767.js": "8b3371e51a80e7482970f0d41a8433d616cec698",
