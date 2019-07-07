@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1562467368914,
+  "timestamp": 1562489005401,
   "appData": {
     "version": "1.0.0",
     "changelog": "Release awal aplikasi AwesomeJSDevID"
@@ -12,10 +12,10 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/awesome-js-dev-indonesia/4-es5.3ccdc312b7100d07097e.js",
-        "/awesome-js-dev-indonesia/5-es5.1e69f849215c771dfabe.js",
-        "/awesome-js-dev-indonesia/7-es2015.ea0efa49c3adb1dd0440.js",
-        "/awesome-js-dev-indonesia/8-es2015.27f31aab45435bbffab9.js",
+        "/awesome-js-dev-indonesia/4-es5.8bd1e2931319208b5705.js",
+        "/awesome-js-dev-indonesia/5-es5.ad6c68a4635aba7bc995.js",
+        "/awesome-js-dev-indonesia/7-es2015.b5fbb93cc7aca0773916.js",
+        "/awesome-js-dev-indonesia/8-es2015.6d5f41a8be950e8a75bf.js",
         "/awesome-js-dev-indonesia/bootstrap-js.js",
         "/awesome-js-dev-indonesia/bootstrap-style.css",
         "/awesome-js-dev-indonesia/favicon.ico",
@@ -26,8 +26,8 @@
         "/awesome-js-dev-indonesia/main-es5.fa3e9635ea3602ff331a.js",
         "/awesome-js-dev-indonesia/polyfills-es2015.12c9b893ea3f268e5104.js",
         "/awesome-js-dev-indonesia/polyfills-es5.7d557f3a1ecba44264aa.js",
-        "/awesome-js-dev-indonesia/runtime-es2015.247d1e89517b91be5f49.js",
-        "/awesome-js-dev-indonesia/runtime-es5.bece1e71a6dd8acecde0.js",
+        "/awesome-js-dev-indonesia/runtime-es2015.8cb71783e42eb1539459.js",
+        "/awesome-js-dev-indonesia/runtime-es5.042b072bcec904253cd4.js",
         "/awesome-js-dev-indonesia/styles.842dc4aae5a2857afc2c.css",
         "/awesome-js-dev-indonesia/vendor-es2015.f01107066b4fc9b926c2.js",
         "/awesome-js-dev-indonesia/vendor-es5.00339880c2c01ac22a79.js"
@@ -80,10 +80,10 @@
     }
   ],
   "hashTable": {
-    "/awesome-js-dev-indonesia/4-es5.3ccdc312b7100d07097e.js": "4fb4145245eb04c9502bb1aaf0e78b4e29aa5a13",
-    "/awesome-js-dev-indonesia/5-es5.1e69f849215c771dfabe.js": "8b3371e51a80e7482970f0d41a8433d616cec698",
-    "/awesome-js-dev-indonesia/7-es2015.ea0efa49c3adb1dd0440.js": "d049977feb20ca55f742b2313d9b5685dabd7ebf",
-    "/awesome-js-dev-indonesia/8-es2015.27f31aab45435bbffab9.js": "048a3b2e6fd562236f38aef4f4d5900cdefbd224",
+    "/awesome-js-dev-indonesia/4-es5.8bd1e2931319208b5705.js": "a0927257d1ae995cea1454cd54fffefc5776e802",
+    "/awesome-js-dev-indonesia/5-es5.ad6c68a4635aba7bc995.js": "b7dbcce5682c3bff222a5a62da2fb04cd34e389e",
+    "/awesome-js-dev-indonesia/7-es2015.b5fbb93cc7aca0773916.js": "70f43bee676df7c85975c2c12566f3058d412b7d",
+    "/awesome-js-dev-indonesia/8-es2015.6d5f41a8be950e8a75bf.js": "150e1b285b0fa1e4faca7c715bc1fd861737171d",
     "/awesome-js-dev-indonesia/assets/developers.json": "6b681dc50e70494e8e01be36ac48d9fe4199a4dc",
     "/awesome-js-dev-indonesia/assets/icons/ic_launcher.png": "2857632bcaaf0572701b30eb33a052ed5f0adc33",
     "/awesome-js-dev-indonesia/assets/icons/icon-512x512.png": "caae0f1d20e5cdae24893b4b5d0cb026e0f36fcc",
@@ -106,14 +106,14 @@
     "/awesome-js-dev-indonesia/fa-solid-900.ef3df98419d143d9617f.eot": "acee4f1e361ccf995121f381b95424b6ec6b29c0",
     "/awesome-js-dev-indonesia/favicon.ico": "5c13495d16ef65e67b354baf749ecb4288c40b55",
     "/awesome-js-dev-indonesia/fontawesome-style.css": "0a1bb7f9518dd9c2b17d0b5d8ea01c1e8266f756",
-    "/awesome-js-dev-indonesia/index.html": "f2fafe2c17254c9c9b7cdfa4d408c4cb6e5890e8",
+    "/awesome-js-dev-indonesia/index.html": "c64bc0f9d77bf4a7c7475f294ededf9e55556d3e",
     "/awesome-js-dev-indonesia/jquery-js.js": "b79b88235d54697a27587a1e58254e29b7379547",
     "/awesome-js-dev-indonesia/main-es2015.690a9bcd4022d31cde68.js": "234a62113ea9d1a229696fab4b337b487604327e",
     "/awesome-js-dev-indonesia/main-es5.fa3e9635ea3602ff331a.js": "2473e74c1ed472cf4624cebcdd22dcafd79d12ca",
     "/awesome-js-dev-indonesia/polyfills-es2015.12c9b893ea3f268e5104.js": "775dad56f337fbfabc4e0315d276c6516639d3cd",
     "/awesome-js-dev-indonesia/polyfills-es5.7d557f3a1ecba44264aa.js": "6c9688c6586bfcf669879655ba5874ef1d2b4bcf",
-    "/awesome-js-dev-indonesia/runtime-es2015.247d1e89517b91be5f49.js": "fe7f26acf805e9c0733a0ec511b1f653a4cca0c6",
-    "/awesome-js-dev-indonesia/runtime-es5.bece1e71a6dd8acecde0.js": "93d7e2583c3cf886abc4e27ec6d903bc43848348",
+    "/awesome-js-dev-indonesia/runtime-es2015.8cb71783e42eb1539459.js": "9d28475dee5ec857c460ad3f44a5d3b4fd88b611",
+    "/awesome-js-dev-indonesia/runtime-es5.042b072bcec904253cd4.js": "1b62bc8dacc8bfc078fc480c041b4211269a36ab",
     "/awesome-js-dev-indonesia/styles.842dc4aae5a2857afc2c.css": "1adf159d0c8f418ce30c378b8ceb9b36101c2bb9",
     "/awesome-js-dev-indonesia/vendor-es2015.f01107066b4fc9b926c2.js": "aa8cf2ee044b919a53311383525132ccd10f20ca",
     "/awesome-js-dev-indonesia/vendor-es5.00339880c2c01ac22a79.js": "8cf91c7b265e35fa3d8391ddb39d61251ff63fde"
